@@ -1,5 +1,4 @@
-![Картинка](55fb6e174379397.651d4441e8526.png)
-![Картинка](13ced0174379397.6504a7e761498.png)
+![Картинка](a386e6174379397.6504a7e76050e (1).png)
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
   𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
