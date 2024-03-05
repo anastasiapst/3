@@ -4,7 +4,7 @@
   𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
 </div> 
 
-<div style="margin-bottom: 20px; width: 250px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
+<div style="margin-bottom: 20px; width: 270px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
   The project explores people's usual habitats and proposes new ways to see the everyday world using developed and proposed mini-observation practices. The aim of the project is to update the topic of everyday life.
 </div>
 
