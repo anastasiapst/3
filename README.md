@@ -5,7 +5,7 @@
 </div> 
 
 <div style="margin-bottom: 20px; width: 270px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
-  The project explores people's usual habitats and proposes new ways to see the everyday world using developed and proposed mini-observation practices. The aim of the project is to update the topic of everyday life.
+  The project explores people's usual habitats and proposes new ways to see the everyday world using developed and proposed mini-observation practices.
 </div>
 
 <div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
@@ -42,12 +42,12 @@
 
 <style>
 p {
-font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;"
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;"
 }
 </style>
 
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@440&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" rel="stylesheet">
 <head>
