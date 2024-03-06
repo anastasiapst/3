@@ -1,8 +1,12 @@
 ![Картинка](a386e6174379397.6504a7e76050e (1).png)
-  𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
 
+<div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
+  𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
+</div> 
+<div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
   VIEW PROJECT→
- 
+</div>
+
 ![Картинка2](d5ddfa166301245.6415e393200f2.png)
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
