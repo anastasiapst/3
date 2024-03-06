@@ -1,6 +1,6 @@
 ![Картинка](a386e6174379397.6504a7e76050e (1).png)
   𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
-  
+
   VIEW PROJECT→
  
 ![Картинка2](d5ddfa166301245.6415e393200f2.png)
