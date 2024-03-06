@@ -2,7 +2,7 @@
   𒊹 MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
   
   VIEW PROJECT→
-
+ 
 ![Картинка2](d5ddfa166301245.6415e393200f2.png)
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
